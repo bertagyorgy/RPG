@@ -1,0 +1,10 @@
+Z:\Asztali alk\RPGjatek\RPGjatek\bin\Debug\RPGjatek.exe.config
+Z:\Asztali alk\RPGjatek\RPGjatek\bin\Debug\RPGjatek.exe
+Z:\Asztali alk\RPGjatek\RPGjatek\bin\Debug\RPGjatek.pdb
+Z:\Asztali alk\RPGjatek\RPGjatek\obj\Debug\RPGjatek.csprojAssemblyReference.cache
+Z:\Asztali alk\RPGjatek\RPGjatek\obj\Debug\RPGjatek.Form1.resources
+Z:\Asztali alk\RPGjatek\RPGjatek\obj\Debug\RPGjatek.Properties.Resources.resources
+Z:\Asztali alk\RPGjatek\RPGjatek\obj\Debug\RPGjatek.csproj.GenerateResource.cache
+Z:\Asztali alk\RPGjatek\RPGjatek\obj\Debug\RPGjatek.exe
+Z:\Asztali alk\RPGjatek\RPGjatek\obj\Debug\RPGjatek.pdb
+Z:\Asztali alk\RPGjatek\RPGjatek\obj\Debug\RPGjatek.Menu.resources
